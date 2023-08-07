@@ -1,0 +1,7 @@
+1. Create a repository in the github
+2. Clone the repository at local system.
+3. Add a teaxt file in your local repository.
+4. Use git add to add that file to the repository.
+5. Use git commit to commit your change. Use a meaningful message.
+6. Use git push to send your change to the github repository.
+7. Look online to see if your change has been pushed.
